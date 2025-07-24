@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+pathway_venv/
+
+# Ignore temporary or non-essential files
+unused/
+*.pyc
+__pycache__/
+
+# ignore the generated pathways.csv file
+pathways.csv
