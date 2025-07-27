@@ -1,5 +1,10 @@
 # KEGG Pathway Annotation Tool
 
+
+## Author
+
+**Samson Olofinsae**  
+
 This Python script allows you to annotate a list of human genes with their associated functional pathways from the KEGG database.
 
 ## Overview
