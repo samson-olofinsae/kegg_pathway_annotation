@@ -59,3 +59,7 @@ This tool was originally developed for investigating genes involved in Gorlin Sy
 ## License
 
 MIT License
+
+
+## Ethical Statement
+This tool is strictly educational and publicly reproducible. It does not use or replicate any private data, code, or intellectual property from NHS or affiliated institutions. All KEGG queries are made using public API endpoints under standard academic fair use. The tool is independently developed by the author and released under the MIT license.
